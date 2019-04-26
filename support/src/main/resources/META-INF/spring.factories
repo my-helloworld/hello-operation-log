@@ -1,0 +1,4 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.demo.support.impl.OperationLogAspect,\
+  com.demo.support.impl.OperationLogStack,\
+  com.demo.support.impl.OperationReporterImpl
